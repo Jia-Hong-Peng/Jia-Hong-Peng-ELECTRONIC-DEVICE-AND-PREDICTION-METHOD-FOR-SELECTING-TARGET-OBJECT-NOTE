@@ -3,9 +3,9 @@ ELECTRONIC DEVICE AND PREDICTION METHOD FOR SELECTING TARGET OBJECT
 
 # 經濟部智慧財產局
 
-[專利連結](https://twpat3.tipo.gov.tw/twpatc/twpatkm?!!FRURLI708167)
-[專利公報下載](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/raw/main/document/GA-I708167.pdf)
-[公告說明書下載](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/raw/main/document/TB001556424_GN__1_108107178_I708167.pdf)
+- [專利連結](https://twpat3.tipo.gov.tw/twpatc/twpatkm?!!FRURLI708167)
+- [專利公報下載](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/raw/main/document/GA-I708167.pdf)
+- [公告說明書下載](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/raw/main/document/TB001556424_GN__1_108107178_I708167.pdf)
 
 # 摘要
 一種透過操作游標的行為來預測選取標的物之方法，可用於人機互動、虛擬與擴增實境、穿戴式技術，改善使用者操作體驗，其包含以下步驟：
