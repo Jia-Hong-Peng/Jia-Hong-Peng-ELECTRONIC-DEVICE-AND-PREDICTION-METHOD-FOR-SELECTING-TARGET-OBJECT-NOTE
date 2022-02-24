@@ -30,6 +30,10 @@ ELECTRONIC DEVICE AND PREDICTION METHOD FOR SELECTING TARGET OBJECT
 * f. 使用者決定標的物是否命中；若命中，則結束。
 * g. 若未命中，則保存當前之標的物；到 a. 。
 
+# 流程圖
+
+![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/principle03.png)
+
 # 情境演示
 
 ![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/demo01.gif)
