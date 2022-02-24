@@ -2,6 +2,7 @@
 ELECTRONIC DEVICE AND PREDICTION METHOD FOR SELECTING TARGET OBJECT
 
 # 經濟部智慧財產局
+
 [](https://twpat3.tipo.gov.tw/twpatc/twpatkm?!!FRURLI708167)
 
 # 摘要
@@ -9,3 +10,10 @@ ELECTRONIC DEVICE AND PREDICTION METHOD FOR SELECTING TARGET OBJECT
 藉由使用者操作游標取得不同因素，如距離、速度、方向等，得出對應數值。最後依照不同情境計算權重分數，用以預測標的物。使用者可更快的方式選取標的物，進而優化使用者操作體驗。
 
 # 情境演示
+
+![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/demo01.gif)
+
+本案提供更快的方式選取標的物，進而優化使用者操作體驗。
+
+![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/demo02.gif)
+
