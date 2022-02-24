@@ -28,4 +28,9 @@ ELECTRONIC DEVICE AND PREDICTION METHOD FOR SELECTING TARGET OBJECT
 
 ![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/demo04.gif)
 
+只看 Y軸的話 就會命中標的物
+此例 X坐標軸加權 乘以 0
+
+![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/demo05.gif)
+
 # 透過移動向量
