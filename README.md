@@ -17,11 +17,11 @@ ELECTRONIC DEVICE AND PREDICTION METHOD FOR SELECTING TARGET OBJECT
 * a. 使用者操作游標；
 * b. 計算游標與所有標的物的距離、速度、方向；
 * c. 判若斷所有目標距離是否大於距離閥值；若小於距離閥值，則選取最短距離之標的物。  
+  - 1) 使用者決定標的物是否命中；若命中，則結束。
+  - 2) 若未命中，則判斷是否存在前一次標的物；若存在則清除標的物；到 a. 。
 
 ![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/principle01.png)
 
-  - 1) 使用者決定標的物是否命中；若命中，則結束。
-  - 2) 若未命中，則判斷是否存在前一次標的物；若存在則清除標的物；到 a. 。
 * d. 若大於距離閥值，判斷是否存在前一次標的物，若不存在，則依情境使用不同方向的權重，計算所有標的物加權後的距離來選取最短加權距離之標的物；到 f.。
 * e. 若存在前一次標的物，則判斷移動速度是否大於速度閥值；若大於速度閥值，則以前一次標的物為基準，再依移動方向選取距離最近標的物。  
   
