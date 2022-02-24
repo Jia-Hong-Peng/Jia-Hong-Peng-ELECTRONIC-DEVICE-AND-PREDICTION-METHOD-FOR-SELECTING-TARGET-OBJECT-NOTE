@@ -26,6 +26,9 @@ ELECTRONIC DEVICE AND PREDICTION METHOD FOR SELECTING TARGET OBJECT
 
 ![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/demo03.gif)
 
+判斷所有目標距離是否大於距離閥值
+![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/principle01.png)
+
 # 透過坐標軸加權
 
 - 設計概念
@@ -34,13 +37,18 @@ ELECTRONIC DEVICE AND PREDICTION METHOD FOR SELECTING TARGET OBJECT
 
 - 實際成果
 
-![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/demo05.gif)
-
 此例 X坐標軸加權 乘以 0
+![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/demo05.gif)
 
 # 透過移動向量
 
 - 設計概念
+
+![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/demo06.gif)
+
+
+判斷游標移動速度是否大於速度閥值
+![](https://github.com/Jia-Hong-Peng/Jia-Hong-Peng-ELECTRONIC-DEVICE-AND-PREDICTION-METHOD-FOR-SELECTING-TARGET-OBJECT-NOTE/blob/main/image/principle02.png)
 
 - 實際成果
 
